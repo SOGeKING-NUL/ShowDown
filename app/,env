@@ -1,0 +1,3 @@
+NEXT_PUBLIC_BASE_URL=http://localhost:3000
+BITREFILL_API_KEY=your_bitrefill_api_key_here
+CHAINLINK_VRF_COORDINATOR=your_vrf_coordinator_address
